@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple Language App</string>
+    <string name="top_bar_text">Android guy</string>
+    <string name="center_name_text">Hello</string>
+    <string name="title">Simple title</string>
+</resources>
